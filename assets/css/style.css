@@ -139,5 +139,11 @@ p {
     .benefits {
         width: auto;
         overflow: auto;
+        margin-right: 0px;
+    }
+    .content {
+        width: auto;
+        overflow: auto;
+        margin-left: 0px;
     }
 }
