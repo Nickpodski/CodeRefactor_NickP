@@ -15,3 +15,7 @@ This is my homework **README** for my first assignment for the UCF coding bootca
 https://nickpodski.github.io/CodeRefactor_NickP_Homework/ - Live URL
 https://github.com/Nickpodski/CodeRefactor_NickP_Homework - Github Repo
 
+## Credits
+
+https://www.w3schools.com/ - W3 Schools
+
