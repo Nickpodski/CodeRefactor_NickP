@@ -1,4 +1,4 @@
-# CodeRefactor_NickP_Homework
+# CodeRefactor_NickP
 
 ## Desciption
 
